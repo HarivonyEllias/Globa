@@ -1,0 +1,16 @@
+@glb-heads
+<html>
+ <header>
+    <title>TEST GENERATED RD</title>
+ </header>
+    <body>
+        <li>
+            @glb-occurence
+            <h4>@glb-name</h4>
+            <ol>@glb-key : @glb-value</ol>
+            @glb-trigger
+            <button>delete</button>
+            @glb-occurence
+        </li>
+    </body>
+</html>

@@ -1,0 +1,12 @@
+#type_bdd type_java
+char=System.String
+varchar=System.String
+text=System.String
+int4=System.Int32
+integer=System.Int32
+serial=int
+numeric=System.Double
+decimal=System.Double
+date=System.DateTime
+timestamp=System.DateTime
+boolean=System.Boolean

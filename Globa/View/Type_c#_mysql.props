@@ -1,0 +1,12 @@
+#type_bdd type_c#
+char=System.String
+varchar=System.String
+text=System.String
+integer=System.Int32
+numeric=System.Double
+decimal=System.Double
+date=System.DateTime
+timestamp=System.DateTime
+datetime=System.DateTime
+boolean=System.Boolean
+enum=System.String

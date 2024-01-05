@@ -1,0 +1,15 @@
+@glb-heads
+<html>
+ <header>
+    <title>TEST GENERATED CU</title>
+ </header>
+    <body>
+        <form>
+            @glb-field
+            <label>@glb-name</label>
+            <input type=@glb-type />
+            @glb-field
+            <input type="submit" />
+        </form>
+    </body>
+</html>

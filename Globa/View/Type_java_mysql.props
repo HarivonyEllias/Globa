@@ -1,0 +1,12 @@
+#type_bdd type_java
+char=String
+varchar=String
+text=String
+integer=int
+numeric=double
+decimal=double
+date=java.sql.Date
+timestamp=java.sql.Timestamp
+datetime=java.sql.Timestamp
+boolean=Boolean
+enum=String
