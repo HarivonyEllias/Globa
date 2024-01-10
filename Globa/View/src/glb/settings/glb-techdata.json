@@ -1,7 +1,4 @@
-// {
-//     "jsp":{"heads":"<%page contentType='text/html;charset=UTF-8' language=\"java\" %>","forInput":"for"},
-//     "cshtml":{"heads":"@model","forInput":"asp-for"}
-// }
 {
-    "cshtml":"asp-for"
+    "jsp":{"heads":"<%page contentType='text/html;charset=UTF-8' language=\"java\" %>","forInput":"for"},
+    "cshtml":{"heads":"@model","forInput":"asp-for"}
 }

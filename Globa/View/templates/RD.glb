@@ -5,12 +5,9 @@
  </header>
     <body>
         <li>
-            @glb-occurence
-            <h4>@glb-name</h4>
+            @glb-occurence-start
             <ol>@glb-key : @glb-value</ol>
-            @glb-trigger
-            <button>delete</button>
-            @glb-occurence
+            @glb-occurence-end
         </li>
     </body>
 </html>

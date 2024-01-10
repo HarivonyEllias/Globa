@@ -5,10 +5,10 @@
  </header>
     <body>
         <form>
-            @glb-field
+            @glb-field-start
             <label>@glb-name</label>
             <input type=@glb-type />
-            @glb-field
+            @glb-field-end
             <input type="submit" />
         </form>
     </body>
